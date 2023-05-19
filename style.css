@@ -1,0 +1,25 @@
+body
+{
+    color: yellow;
+   background: blue;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+#camera
+{
+    border: 2px dotted black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name , #result_object_accuracy
+{
+    color: yellow;
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+}
